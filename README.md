@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xianweiMeng
+- 👋 Hi, I’m @xwmeng
 - 👀 I’m interested in everything
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on ...
